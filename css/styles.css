@@ -351,8 +351,7 @@ color: #404bbf
     padding: 100px 0;
 }
 .logo-footer {
-    align-items: center;
-    margin-right: 76px;
+    display: inline-block;
     color: #4D5AE5;
     text-decoration: none;
     text-transform: uppercase;
@@ -361,12 +360,10 @@ color: #404bbf
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    display: inline-block;
     margin-bottom: 16px;
 }
 .logo-bottom{
     color: #F4F4FD;
-    display: inline-block;
 }
 .footer-text{
     width: 264px;
